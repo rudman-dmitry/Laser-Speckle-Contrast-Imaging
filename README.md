@@ -15,6 +15,7 @@ a non-invasive real time tool for measuring particle velocity in a phantom tube.
 For a more in-depth description please see `Paper.pdf`
 
 Functions:
+
 `speck_gen.m` - generates speckle pattern with desired paramters
 
 `SpeckleSize.m` - Calculates speckle size for real speckle pattern 
