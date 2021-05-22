@@ -16,7 +16,10 @@ For a more in-depth description please see `Paper.pdf`
 
 Functions:
 `speck_gen.m` - generates speckle pattern with desired paramters
+
 `SpeckleSize.m` - Calculates speckle size for real speckle pattern 
+
 `evolving_speckle.m` - generates evolving speckle pattern with desired paramters: speckle size, level of blurring, decorrelation time. Implements
 different imaging techniques on simulated data.
+
 `real_time.py` - was used for real time imaging with implementations of different techniques
